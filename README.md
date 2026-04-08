@@ -1,6 +1,8 @@
 # 🍱 AI Foodie: Image-Based Calorie Counter
 **HuggingFace Inference API & LangChain LCEL 기반 인공지능 영양사 서비스**
 
+https://huggingface.co/spaces/eunanim/calorie-counter/
+
 음식 사진을 업로드하면 이미지 분류 모델이 음식을 식별하고, LLM이 1인분 기준 영양 성분(칼로리, 탄단지)을 추정하여 제공합니다.
 
 ---
